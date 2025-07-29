@@ -2,9 +2,9 @@
 
 Este projeto implementa a modelagem de um iPhone com suas 3 principais funcionalidades:
 
-- 🎵 Reprodutor Musical  
-- 📞 Aparelho Telefônico  
-- 🌐 Navegador de Internet  
+- 🎵 [Reprodutor Musical](https://github.com/arthurcarneiro1/trilha-java-basico/blob/main/poo/ReprodutorMusical.java) 
+- 📞 [Aparelho Telefônico](https://github.com/arthurcarneiro1/trilha-java-basico/blob/main/poo/AparelhoTelefonico.java) 
+- 🌐 [Navegador de Internet](https://github.com/arthurcarneiro1/trilha-java-basico/blob/main/poo/NavegadorInternet.java)  
 
 ## 📊 Diagrama UML
 
