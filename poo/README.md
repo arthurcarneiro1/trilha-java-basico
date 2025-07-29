@@ -44,9 +44,3 @@ AparelhoTelefonico.java
 NavegadorInternet.java  
 iPhone.java
 ```
-
-## ✅ Requisitos Atendidos
-
-- [x] Diagramar em UML
-- [x] Criar interfaces
-- [x] Implementar classe `iPhone`
